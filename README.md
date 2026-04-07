@@ -22,13 +22,13 @@ TravelCo-master/
 Add your website images inside the `screenshots/` folder, then keep these paths as-is:
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./home.png)
 
 ### Tours Page
-![Tours Page](./screenshots/tours.png)
+![Tours Page](./tours.png)
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./login.png)
 
 ## Prerequisites
 
