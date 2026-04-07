@@ -30,6 +30,10 @@ Add your website images inside the `screenshots/` folder, then keep these paths 
 ### Login Page
 ![Login Page](./login.png)
 
+### Tour Booking Page
+![Tour Booking Page](./tour_page.png)
+
+
 ## Prerequisites
 
 - Node.js (v16+ recommended)
